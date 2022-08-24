@@ -1,1 +1,1 @@
-Let's resolve wanna conflict
+feature1
