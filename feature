@@ -1,1 +1,1 @@
-conflict2
+Let's resolve wanna conflict
